@@ -1,0 +1,17 @@
+<!Doctype>
+<html>
+<head>
+<title>Dr.Metwally</title>
+<dev><a href="New Text Document (2).html">Home</a> </dev>
+<dev><a href="About us.html">about us</a></dev>
+<dev><a href="get qoute.html"><button type="button">Get quote</button></a></dev>
+<dev><a href="we care.html">we care</a></dev>
+<dev><a href="get directions.html">get directions</a>
+<dev><a href="FAQs.html">FAQs</a>
+<dev><a href="policy.html">policy</a>
+</head>
+<body>
+<h3>leave your question<h3>
+<input>
+</body>
+</html>
