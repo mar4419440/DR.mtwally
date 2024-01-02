@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: 4B6ABE;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: navy;
+    color: black;
+}
+
+li a:hover {
+    background-color: aqua;
+    color: black;
+}
+
+*section p {
+    background-color: aliceblue;
+    padding: 0% 10%;
+    font-size: 120%;
+}
+
+footer {
+    background-color: 4B6ABE;
+    color: white;
+}
